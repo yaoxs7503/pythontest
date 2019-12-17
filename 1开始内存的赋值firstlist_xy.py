@@ -1,0 +1,10 @@
+warm=['red','yellow','orange']
+hot=warm
+hot.append('blak')
+print(hot)
+print(warm)
+x=5
+y=x
+y=y+1
+print(x)
+print(y)
